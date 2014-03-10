@@ -69,6 +69,6 @@ iOS7을 사용하는 지금 아직도 그 결과가 동일할까? 라는 생각�
 	</tr>
 </table>
 
-![](./@img/IMG_0066.PNG)
-![](./@img/IMG_0065.PNG)
+<img src="./@img/IMG_0066.PNG" width="320" height="568">
+<img src="./@img/IMG_0065.PNG" width="320" height="568">
 
